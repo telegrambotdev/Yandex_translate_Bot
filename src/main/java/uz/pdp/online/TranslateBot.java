@@ -29,12 +29,12 @@ public class TranslateBot extends TelegramLongPollingBot {
 
    // write your bot username  
     public String getBotUsername() {
-        return "";
+        return "@iamadeadlyboarbot";
     }
 
     // write your bot token which you receive from botfather
     public String getBotToken() {
-        return "";
+        return "1124146032:AAHaQ_hVNaEVrb__N6FjFxGBNnyBuQhIfQU";
     }
 
     public void onUpdateReceived(Update update) {
